@@ -15,11 +15,11 @@ Key Features:
 
 Repository Includes:
 
-    • Character & nobility progression systems
-    • Romance mechanics with branching outcomes
-    • Medieval combat system (melee + enchanted abilities)
-    • World-building assets (maps, dialogue, lore scripts)
-    • Story and design documentation
+- Character & nobility progression systems
+- Romance mechanics with branching outcomes
+- Medieval combat system (melee + enchanted abilities)
+- World-building assets (maps, dialogue, lore scripts)
+- Story and design documentation
 
 ## 🛡️ License
 
