@@ -4,7 +4,7 @@
 
 Step into the role of one of two protagonists—male or female—each with unique storylines and romantic possibilities. Your character’s gender not only influences relationships, but also determines whether your journey leans more heavily toward romantic intrigue or action-driven combat.
 
-##Features
+## Features
 
 - Two Protagonists, Two Perspectives – Experience the story through the eyes of either a male or female hero, each with their own challenges, relationships, and destinies.
 - Romance & Nobility System – Forge alliances, fall in love, or defy tradition as you navigate the strict social hierarchy of a noble empire. Your bonds shape both the story and your legacy.
