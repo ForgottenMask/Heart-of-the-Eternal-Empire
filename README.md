@@ -1,8 +1,8 @@
-#Heart of the Eternal Empire
+# Heart of the Eternal Empire
 
-Heart of the Eternal Empire is a single-player romance fantasy RPG set in a medieval-inspired empire bound by nobility, tradition, and hidden magic. The game weaves together the thrill of romance and the danger of action, allowing players to shape their journey through choice, loyalty, and passion.
+## Heart of the Eternal Empire is a single-player romance fantasy RPG set in a medieval-inspired empire bound by nobility, tradition, and hidden magic. The game weaves together the thrill of romance and the danger of action, allowing players to shape their journey through choice, loyalty, and passion.
 
-Step into the role of one of two protagonists—male or female—each with unique storylines and romantic possibilities. Your character’s gender not only influences relationships, but also determines whether your journey leans more heavily toward romantic intrigue or action-driven combat.
+## Step into the role of one of two protagonists—male or female—each with unique storylines and romantic possibilities. Your character’s gender not only influences relationships, but also determines whether your journey leans more heavily toward romantic intrigue or action-driven combat.
 
 Key Features:
 
@@ -20,3 +20,14 @@ Repository Includes:
     • Medieval combat system (melee + enchanted abilities)
     • World-building assets (maps, dialogue, lore scripts)
     • Story and design documentation
+
+## 🛡️ License
+
+[![License: Proprietary with Modding Allowed](https://img.shields.io/badge/License-Proprietary--Modding--Allowed-blue.svg)](#)
+
+This project is licensed under the **ForgottenMask Game License (All Rights Reserved – Modding Allowed with Restrictions)**.  
+- ✅ Mods are allowed, including visual, gameplay, and content expansions.  
+- ❌ Selling or redistributing the **base game or source code** is prohibited.  
+- ⚖️ Modders may sell their mods under their own license, provided they clearly state they are independent works.  
+
+For full terms, see the [LICENSE](./License) file.
