@@ -19,14 +19,14 @@ Key Features:
 
   • Single-Player Experience – Immerse yourself fully in the story without distractions, focusing on your character’s personal journey through love, power, and destiny.
 
-Repository Includes:
+    Repository Includes:
 
-  • Character & nobility progression systems
+    • Character & nobility progression systems
 
-  • Romance mechanics with branching outcomes
+    • Romance mechanics with branching outcomes
 
-  • Medieval combat system (melee + enchanted abilities)
+    • Medieval combat system (melee + enchanted abilities)
 
-  • World-building assets (maps, dialogue, lore scripts)
+    • World-building assets (maps, dialogue, lore scripts)
 
     • Story and design documentation
